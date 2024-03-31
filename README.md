@@ -1,5 +1,7 @@
 # **Web scraping and data cleaning with Beautiful Soup and Pandas**
-In this project, Beautiful Soup was used to scrape data from a Wikipedia article about the top companies by revenue in the US. The extracted data was then placed into a pandas dataframe for cleaning.
+In data science, web scraping is the process of extracting data from websites, and it is useful for collecting vast amounts of information quickly or analyzing real-time data. This data is typically extracted in an unstructured HTML format, which means that it must be converted into a structured form, such as a pandas DataFrame.
+
+In this project, Beautiful Soup was used to scrape data from a Wikipedia article on the top companies by revenue in the US. The extracted data was then placed into a pandas DataFrame for cleaning.
 
 URL to the Wikipedia article: https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue
 
