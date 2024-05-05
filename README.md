@@ -3,7 +3,10 @@ In data science, web scraping is the process of extracting data from websites, w
 
 In this project, Beautiful Soup was used to scrape data from a Wikipedia article on the top companies by revenue in the US. The extracted data was then inserted into a pandas DataFrame for wrangling (manipulating the data to make it suitable for analysis).
 
-URL to the Wikipedia article: https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
+URL to the Wikipedia article: 
+
+*https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue*
+
 
 ![image](https://github.com/Daniel-De-la-Cruz-Vill/Web-scrapping-and-data-cleaning/assets/157164355/5b802497-5f5d-41b3-94f4-1674d82c7e81)
 
